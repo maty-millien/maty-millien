@@ -69,7 +69,7 @@ I'm a software engineering student at Epitech Montpellier with a passion for bui
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com/?user=maty-millien&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-nine-alpha.vercel.app/?user=maty-millien&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## Connect
