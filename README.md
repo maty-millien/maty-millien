@@ -1,4 +1,4 @@
-# Hi, I'm Maty Millien
+# Hi, I'm Maty MILLIEN
 
 **Student at Epitech Montpellier** | Full-Stack Developer | Building across web, mobile, systems, and AI
 
