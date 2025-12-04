@@ -64,8 +64,8 @@ I'm a software engineering student at Epitech Montpellier with a passion for bui
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=maty-millien&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maty-millien&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maty-millien&theme=github_dark" alt="GitHub Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maty-millien&theme=github_dark" alt="Top Languages" height="165" />
 </p>
 
 <p>
