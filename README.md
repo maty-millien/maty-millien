@@ -1,78 +1,87 @@
-# Hi, I'm Maty MILLIEN
+<div align="center">
 
-**Student at Epitech Montpellier** | Full-Stack Developer | Building across web, mobile, systems, and AI
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Maty%20Millien&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
-## About Me
-
-I'm a software engineering student at Epitech Montpellier with a passion for building things that work. I enjoy exploring different domains of programming, from low-level systems in C to modern web applications and machine learning projects.
-
-## Current Focus
-
-- **Full-Stack Web** — React, Next.js, TypeScript, Node.js
-- **Mobile Development** — Swift, React Native, Expo
-- **Systems Programming** — C, memory management, UNIX
-- **AI/Machine Learning** — TensorFlow, PyTorch, data science
-
-## Tech Stack
-
-### Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Mobile
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-
-### AI/ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-### Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-## GitHub Stats
+<a href="https://github.com/maty-millien">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=520&lines=Software+engineering+student+%40+Epitech+Montpellier;Full-stack+%C2%B7+Mobile+%C2%B7+Systems+%C2%B7+AI;Building+tools+I'd+want+to+use" alt="typing" />
+</a>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maty-millien&theme=github_dark" alt="GitHub Stats" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maty-millien&theme=github_dark" alt="Top Languages" height="165" />
+  <img src="https://img.shields.io/badge/Montpellier-France-0a0a0a?style=for-the-badge&labelColor=8B5CF6" alt="location" />
+  <img src="https://img.shields.io/github/followers/maty-millien?style=for-the-badge&labelColor=0a0a0a&color=8B5CF6" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=maty-millien&style=for-the-badge&color=8B5CF6&labelColor=0a0a0a" alt="views" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats-nine-alpha.vercel.app/?user=maty-millien&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### Featured projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/maty-millien/Graphy">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maty-millien&repo=Graphy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/maty-millien/pushit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maty-millien&repo=pushit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/maty-millien/EpiStyle">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maty-millien&repo=EpiStyle&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/maty-millien/PokerGPT">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=maty-millien&repo=PokerGPT&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,swift,c,bash,react,nextjs,nodejs,tailwind,prisma,postgres,docker,git,figma,tensorflow,pytorch" alt="stack" />
 </p>
 
-## Connect
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maty-millien)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:maty.millien@epitech.eu)
+### Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maty-millien&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maty-millien&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maty-millien&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+</div>
+
+---
+
+### Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/maty-millien">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:maty.millien@epitech.eu">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/maty-millien">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" />
+</div>
