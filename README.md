@@ -1,17 +1,9 @@
-# Maty Millien
+### Maty Millien
 
-Software engineering student @ **Epitech Montpellier**.
-Building across web, mobile, systems and AI — usually shipping the tools I wish existed.
+Software engineering student @ Epitech Montpellier.
+Building across web, mobile, systems and AI.
 
-📍 Montpellier, France &nbsp;·&nbsp; ✉️ [maty.millien@epitech.eu](mailto:maty.millien@epitech.eu) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/maty-millien)
-
-### Currently
-
-- Building **[Graphy](https://github.com/maty-millien/Graphy)** — a desktop IDE that visualizes your codebase as an interactive graph
-- Maintaining **[pushit](https://github.com/maty-millien/pushit)** and **[EpiStyle](https://github.com/maty-millien/EpiStyle)**
-- Exploring LLM memory systems and developer tooling
-
-### Stack
+#### Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
@@ -27,9 +19,8 @@ Building across web, mobile, systems and AI — usually shipping the tools I wis
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
 
-### Stats
+#### Elsewhere
 
-<p>
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maty-millien&theme=github_dark" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maty-millien&theme=github_dark" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/maty-millien)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:maty.millien@epitech.eu)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/maty-millien)
